@@ -1,4 +1,4 @@
-# Array Manipulation Compiler
+# Basic Text Editor
 This project is a simple compiler written in C that processes commands for manipulating arrays. The compiler reads instructions from a file, parses them, and generates corresponding C code for various operations on arrays such as declaration, initialization, arithmetic operations, and printing.
 
 ## Features
